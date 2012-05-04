@@ -1,0 +1,5 @@
+example usage in test_fsm.ml.
+
+to build: 
+
+ocamlbuild -use-ocamlfind test_fsm.native -classic-display
